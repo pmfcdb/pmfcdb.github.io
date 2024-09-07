@@ -133,7 +133,7 @@ nav ul li {
 /* Home section */
 #home {
   text-align: center;
-  padding: 100px 0;
+  padding: 1px 0;
 }
 
 #home h1 {
@@ -155,7 +155,7 @@ header.scrolled {
 /* About section */
 #about {
   text-align: center;
-  padding: 100px 0;
+  padding: 1px 0;
 }
 
 #about h1 {
@@ -183,7 +183,7 @@ header.scrolled {
 /* Gallery section */
 #AboutDev {
   text-align: center;
-  padding: 100px 0;
+  padding: 1px 0;
 }
 
 #AboutDev h1 {
